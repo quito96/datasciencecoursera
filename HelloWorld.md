@@ -1,1 +1,1 @@
-##This is a markdown file created by GM
+##This is a markdown file
